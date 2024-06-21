@@ -1,0 +1,20 @@
+{
+  "issues": [
+    {
+      "keywords": ["password", "reset", "forgot"],
+      "response": "To reset your password, visit the company's password reset portal or contact your IT administrator."
+    },
+    {
+      "keywords": ["wifi", "connect", "internet"],
+      "response": "Ensure your Wi-Fi is enabled and you're connected to the correct network. If the issue persists, restart your computer and router."
+    },
+    {
+      "keywords": ["printer", "offline", "not working"],
+      "response": "Check if the printer is turned on, connected to the network, and has paper. If the issue continues, try restarting the printer and check for any error messages."
+    },
+    {
+      "keywords": ["email", "send", "receive"],
+      "response": "Verify your internet connection and ensure your email settings are correct. If you're still unable to send or receive emails, contact the IT Help Desk for assistance."
+    }
+  ]
+}
